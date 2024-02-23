@@ -408,8 +408,8 @@ export const themes = {
     bg_color: "1e1e2e",
   },
   catppuccin_pink: {
-    title_color: "94e2d5",
-    icon_color: "cba6f7",
+    title_color: "ff9fd7",
+    icon_color: "C8A6BE",
     text_color: "F4CDE9",
     bg_color: "352939",
   },
