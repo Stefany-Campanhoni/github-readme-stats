@@ -411,6 +411,7 @@ export const themes = {
     title_color: "ff9fd7",
     icon_color: "C8A6BE",
     text_color: "F4CDE9",
+    border_color: "352939",
     bg_color: "352939",
   },
   date_night: {
